@@ -1,5 +1,8 @@
 # gerenciador-de-tarefas
 
+Pré-Visualização no link abaixo:
+https://gerenciador-de-tarefas.netlify.app/
+
 ## Project setup
 ```
 npm install
