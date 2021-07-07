@@ -1,6 +1,6 @@
 # gerenciador-de-tarefas
 
-Pré-Visualização no link abaixo:
+Pré-Visualização no link:
 https://gerenciador-de-tarefas.netlify.app/
 
 ## Project setup
